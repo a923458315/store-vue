@@ -1,0 +1,23 @@
+{
+	"nav":[{
+		"name":"首页",
+		"id":"main"
+	},{
+		"name":"组件库",
+		"id":"comp_lib"
+	},{
+		"name":"Github",
+		"id":"url",
+		"url":"https://github.com/alvyang/stone-vue"
+	}],
+	"menu":[{
+		"name":"表单组件",
+		"id":"form"
+	},{
+		"name":"按钮组件",
+		"id":"button"
+	},{
+		"name":"其它组件",
+		"id":"other"
+	}]
+}
